@@ -1,0 +1,11 @@
+{
+    "name":"CrickScore Extension",
+    "version":"1.0.0",
+    "description":"This extension will tell you the cricket score but especially designed for IPL score",
+    "manifest_version":3,
+    "author":"Vaibhav Dongre",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"CrickScore Extension"
+    }
+}
